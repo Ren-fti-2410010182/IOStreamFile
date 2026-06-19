@@ -1,0 +1,8 @@
+Prosesor AMD Ryzen 7;4500000.0;5
+RAM 32GB DDR5;1800000.0;10
+SSD 1TB;1200000.0;15
+Keyboard;650000.0;8
+Mouse Gaming;350000.0;20
+HeadSet Gaming;100000.0;30
+Monitor Gaming(255HZ);600000.0;7
+HDMI;0.0;20
