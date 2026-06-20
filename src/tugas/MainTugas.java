@@ -1,3 +1,9 @@
+/*
+NAMA    : Ahmad Reno Irawan
+NPM     : 2410010182
+KELAS   : 4B NONREG BJM
+*/
+
 package tugas;
 
 public class MainTugas {
